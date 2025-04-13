@@ -1,6 +1,6 @@
-# odin-recipes
+# My First Recipe Website
 
-Project Introduction / Reflection – Recipe Website
+## Project Introduction / Reflection – Recipe Website
 
 This project is a simple recipe website designed to display a collection of recipes using clean HTML and CSS. It serves as an introductory web development project, helping solidify the foundations of structuring content with HTML and applying basic styling with CSS.
 
