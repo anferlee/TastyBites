@@ -1,4 +1,4 @@
-# My First Recipe Website
+# TastyBites | My First Recipe Website
 
 As I began my journey into web development, I wanted to create something both familiar and functional — a website that would let me apply my new skills in a practical way. I chose to build a recipe site not only because I enjoy cooking, but also because it allowed me to focus on organizing structured content across multiple pages. It was the perfect first project to help bridge the gap between learning the theory of HTML/CSS and building something real.
 
